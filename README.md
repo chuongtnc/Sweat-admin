@@ -1,1 +1,2 @@
-# Sweat-admin
+# Start
+npm run start

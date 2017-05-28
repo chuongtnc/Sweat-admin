@@ -8,7 +8,7 @@
     "ng": "ng",
     "rimraf": "rimraf",
     "changelog": "standard-changelog",
-    "start": "ng build --prod && node server/server.js",
+    "start": "ng build --prod && node server.js",
     "start:hmr": "ng serve --hmr",
     "start:aot": "ng serve --aot",
     "start:prod": "ng serve --prod",
